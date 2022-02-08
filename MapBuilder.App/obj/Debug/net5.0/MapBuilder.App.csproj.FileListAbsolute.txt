@@ -1,0 +1,48 @@
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.exe
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.deps.json
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.json
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.dev.json
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.dll
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Personal\Project\MapBuilder\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.pdb
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.AssemblyReference.cache
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfoInputs.cache
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfo.cs
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.CoreCompileInputs.cache
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.dll
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.pdb
+C:\Personal\Project\MapBuilder\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.genruntimeconfig.cache
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.exe
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.deps.json
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.json
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.dev.json
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.dll
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.pdb
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.AssemblyReference.cache
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfoInputs.cache
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfo.cs
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.CoreCompileInputs.cache
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.dll
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.pdb
+C:\Users\Artemii\OneDrive\Рабочий стол\stairs\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.genruntimeconfig.cache
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.exe
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.deps.json
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.json
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.runtimeconfig.dev.json
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.dll
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\bin\Debug\net5.0\MapBuilder.App.pdb
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.AssemblyReference.cache
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfoInputs.cache
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.AssemblyInfo.cs
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.csproj.CoreCompileInputs.cache
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.dll
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\ref\MapBuilder.App.dll
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.pdb
+C:\Users\Artemii\source\repos\InfopusleTestTask\MapBuilder.App\obj\Debug\net5.0\MapBuilder.App.genruntimeconfig.cache
